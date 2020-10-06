@@ -138,6 +138,7 @@ mas "GIF Keyboard", id: 1043270657
 mas "Greenshot", id: 1103915944
 mas "Harvest", id: 506189836
 mas "Horo", id: 1437226581
+mas "ImageOptim", id: 1450716465
 mas "Jira", id: 1475897096
 mas "Key Codes", id: 414568915
 mas "Keynote", id: 409183694
